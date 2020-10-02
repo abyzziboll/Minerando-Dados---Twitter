@@ -4,10 +4,10 @@ import io
 try:
 
     ts = TwitterSearch(
-        consumer_key = 'ZHJdF2y5k3SPavNJ343piIJH7',
-        consumer_secret = 'TZP3wOYzSuJMGgzdDhFPXIsRgE6UDWPduwYiQqJ883W9qM1a1b',
-        access_token = '1308552426941800453-J3rHkl3MfccZEy3RLTjbhTqpQw9qwP',
-        access_token_secret = 'LJImhabi7TVibIKWhc5z1iDGMEwjDsJK0XfqALpD0IerJ'
+        consumer_key = 'sua consumer_key',
+        consumer_secret = 'sua consumer_secret',
+        access_token = 'sua access_token',
+        access_token_secret = 'suaaccess_token_secret'
      )
     tso = TwitterSearchOrder()
     tso.set_keywords([':)'])
